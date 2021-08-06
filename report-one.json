@@ -1,0 +1,23 @@
+{
+    "columns": [
+        "Id",
+        "Title",
+        "First Name",
+        "Last Name"
+    ],
+    "rows": [
+        {
+            "id" : 1,
+            "title" : "Mr",
+            "firstName" : "Denis",
+            "lastName" : "Nerezoff"
+        },
+        {
+            "id" : 2,
+            "title" : "Mr",
+            "firstName" : "John",
+            "lastName" : "Smiths"
+        }
+    ],
+    "total": 2
+}
